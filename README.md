@@ -1,3 +1,3 @@
 # NewRepo
-new line..
-added another line
+another line
+
